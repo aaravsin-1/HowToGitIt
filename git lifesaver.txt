@@ -1,0 +1,17 @@
+first sol
+git remote set-url origin https://<passkey>@github.com/<user-name>/<repo-name>
+
+second sol
+git fetch origin main:tmp
+git rebase tmp
+git push origin HEAD:main
+
+
+https://www.youtube.com/watch?v=nhNq2kIvi9s&t=369s - learn GitHub 20 mins
+https://www.youtube.com/watch?v=y7w3A998eY4 - git push error fix
+https://www.youtube.com/watch?v=USjZcfj8yxE - learn git 15 mins
+https://www.youtube.com/watch?v=Ez8F0nW6S-w&t=3687s - apna college GitHub
+
+ctrl X ctrl C to exit text editor
+
+first press esc to enter command mode on vim then type ":<commmand>"
