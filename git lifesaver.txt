@@ -15,3 +15,5 @@ https://www.youtube.com/watch?v=Ez8F0nW6S-w&t=3687s - apna college GitHub
 ctrl X ctrl C to exit text editor
 
 first press esc to enter command mode on vim then type ":<commmand>"
+
+use git lfs for files over 100 mb(for games)
